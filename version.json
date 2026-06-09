@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "changelog": "首次發布",
+  "version": "1.0.1",
+  "changelog": "修正 Android 懸浮視窗在 Android 14+ 無法啟動的問題",
   "android_url": "https://github.com/jimmy1008/floatpad-releases/releases/latest/download/floatpad.apk",
   "windows_url": "https://github.com/jimmy1008/floatpad-releases/releases/latest/download/floatpad-windows.zip",
   "forced": false
