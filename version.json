@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "changelog": "手機版 dock 改為循環轉輪，5 格同時顯示，上下無限滑動，邊緣漸層透明",
+  "version": "1.0.3",
+  "changelog": "修復懸浮球無法點擊背景 App 的問題（視窗改為動態尺寸，自動縮至球大小）",
   "android_url": "https://github.com/jimmy1008/floatpad-releases/releases/latest/download/floatpad.apk",
   "windows_url": "https://github.com/jimmy1008/floatpad-releases/releases/latest/download/floatpad-windows.zip",
   "forced": false
