@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "changelog": "修正 Android 懸浮視窗在 Android 14+ 無法啟動的問題",
+  "version": "1.0.2",
+  "changelog": "手機版 dock 改為循環轉輪，5 格同時顯示，上下無限滑動，邊緣漸層透明",
   "android_url": "https://github.com/jimmy1008/floatpad-releases/releases/latest/download/floatpad.apk",
   "windows_url": "https://github.com/jimmy1008/floatpad-releases/releases/latest/download/floatpad-windows.zip",
   "forced": false
