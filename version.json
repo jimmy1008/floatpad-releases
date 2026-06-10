@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "changelog": "修復懸浮球無法點擊背景 App 的問題（視窗改為動態尺寸，自動縮至球大小）",
+  "version": "1.0.4",
+  "changelog": "修復背景觸控問題；設定頁「下載更新」按鈕現可直接開啟瀏覽器下載",
   "android_url": "https://github.com/jimmy1008/floatpad-releases/releases/latest/download/floatpad.apk",
   "windows_url": "https://github.com/jimmy1008/floatpad-releases/releases/latest/download/floatpad-windows.zip",
   "forced": false
